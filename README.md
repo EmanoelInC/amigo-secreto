@@ -32,8 +32,8 @@ CSS: Estilização e design responsivo.
 JavaScript: Lógica de sorteio e manipulação do DOM.
 
 ## ❓ Possíveis Problemas e Soluções
-# O nome do participante já foi adicionado?
-# O sistema impede que nomes duplicados sejam cadastrados, exibindo um alerta ao usuário.
+O nome do participante já foi adicionado?
+O sistema impede que nomes duplicados sejam cadastrados, exibindo um alerta ao usuário.
 
 O sorteio não ocorre com menos de dois participantes?
 Para evitar erros, o sorteio só funciona quando há pelo menos dois participantes.
